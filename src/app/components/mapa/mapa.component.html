@@ -1,7 +1,7 @@
 <agm-map [zoom]="zoom" [latitude]="lat" [longitude]="lng" *ngIf="tiempo">
   <agm-marker *ngFor="let mark of pointGeo; let i = index; let c = count" [latitude]="mark.lat" [longitude]="mark.lng" [label]='M'>
   <agm-info-window>
-    Punto número {{ i+1 }} / {{ c+1 }}
+    Punto número {{ i+1 }} / {{ c }}
   </agm-info-window>
     </agm-marker>
 </agm-map>

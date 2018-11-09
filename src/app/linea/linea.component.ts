@@ -83,6 +83,7 @@ export class LineaComponent{
      return;
    }
 
+
    this.desde += valor;
    this.hasta += valor;
    this.upRegister();

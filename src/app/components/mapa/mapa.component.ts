@@ -15,7 +15,7 @@ export class MapaComponent implements OnInit {
       this.lat = this.pointGeo[0].lat;
       this.lng = this.pointGeo[0].lng;
       this.tiempo = true
-    },2000)
+    },3500)
   }
 
   ngOnInit() {

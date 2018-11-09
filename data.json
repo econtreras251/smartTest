@@ -1,0 +1,348 @@
+
+{
+      "data": [
+          {
+              "position": {
+                  "is_valid": true,
+                  "course": 160,
+                  "longitude": -55.810115814208984,
+                  "latitude": -31.144866943359375
+              },
+              "parameters": [
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "rpm",
+                      "value": 1306
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "distance",
+                      "value": 933650
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "fuel",
+                      "value": 100
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "total_fuel",
+                      "value": 338067.75
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "ralenti_hours",
+                      "value": 2727
+                  }
+              ],
+              "vehicle_state": 7,
+              "speed": 17,
+              "timestamp": "2018-11-05T18:00:09Z"
+          },
+          {
+              "position": {
+                  "is_valid": true,
+                  "course": 159,
+                  "longitude": -55.80982971191406,
+                  "latitude": -31.145511627197266
+              },
+              "parameters": [
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "rpm",
+                      "value": 1338
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "distance",
+                      "value": 933650
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "fuel",
+                      "value": 100
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "total_fuel",
+                      "value": 338068.21875
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "ralenti_hours",
+                      "value": 2727
+                  }
+              ],
+              "vehicle_state": 7,
+              "speed": 18,
+              "timestamp": "2018-11-05T18:00:29Z"
+          },
+          {
+              "position": {
+                  "is_valid": true,
+                  "course": 164,
+                  "longitude": -55.80942153930664,
+                  "latitude": -31.14662742614746
+              },
+              "parameters": [
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "rpm",
+                      "value": 1305
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "distance",
+                      "value": 933650
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "fuel",
+                      "value": 100
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "total_fuel",
+                      "value": 338068.21875
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "ralenti_hours",
+                      "value": 2727
+                  }
+              ],
+              "vehicle_state": 7,
+              "speed": 28,
+              "timestamp": "2018-11-05T18:00:49Z"
+          },
+          {
+              "position": {
+                  "is_valid": true,
+                  "course": 162,
+                  "longitude": -55.80921936035156,
+                  "latitude": -31.147380828857422
+              },
+              "parameters": [
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "rpm",
+                      "value": 1108
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "distance",
+                      "value": 933651
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "fuel",
+                      "value": 100
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "total_fuel",
+                      "value": 338068.6875
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "ralenti_hours",
+                      "value": 2727
+                  }
+              ],
+              "vehicle_state": 7,
+              "speed": 10,
+              "timestamp": "2018-11-05T18:01:09Z"
+          },
+          {
+              "position": {
+                  "is_valid": true,
+                  "course": 172,
+                  "longitude": -55.809085845947266,
+                  "latitude": -31.14778709411621
+              },
+              "parameters": [
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "rpm",
+                      "value": 1354
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "distance",
+                      "value": 933651
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "fuel",
+                      "value": 100
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "total_fuel",
+                      "value": 338068.6875
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "ralenti_hours",
+                      "value": 2727
+                  }
+              ],
+              "vehicle_state": 7,
+              "speed": 5,
+              "timestamp": "2018-11-05T18:01:29Z"
+          },
+          {
+              "position": {
+                  "is_valid": true,
+                  "course": 165,
+                  "longitude": -55.808860778808594,
+                  "latitude": -31.148406982421875
+              },
+              "parameters": [
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "rpm",
+                      "value": 1258
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "distance",
+                      "value": 933651
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "fuel",
+                      "value": 100
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "total_fuel",
+                      "value": 338069.1875
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "ralenti_hours",
+                      "value": 2727
+                  }
+              ],
+              "vehicle_state": 7,
+              "speed": 17,
+              "timestamp": "2018-11-05T18:01:49Z"
+          },
+          {
+              "position": {
+                  "is_valid": true,
+                  "course": 162,
+                  "longitude": -55.808570861816406,
+                  "latitude": -31.149145126342773
+              },
+              "parameters": [
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "rpm",
+                      "value": 1097
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "distance",
+                      "value": 933651
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "fuel",
+                      "value": 100
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "total_fuel",
+                      "value": 338069.1875
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "ralenti_hours",
+                      "value": 2727
+                  }
+              ],
+              "vehicle_state": 7,
+              "speed": 15,
+              "timestamp": "2018-11-05T18:02:09Z"
+          },
+          {
+              "position": {
+                  "is_valid": true,
+                  "course": 175,
+                  "longitude": -55.8084602355957,
+                  "latitude": -31.14954948425293
+              },
+              "parameters": [
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "rpm",
+                      "value": 601
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "distance",
+                      "value": 933651
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "fuel",
+                      "value": 100
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "total_fuel",
+                      "value": 338069.1875
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "ralenti_hours",
+                      "value": 2727
+                  }
+              ],
+              "vehicle_state": 7,
+              "speed": 0,
+              "timestamp": "2018-11-05T18:02:29Z"
+          },
+          {
+              "position": {
+                  "is_valid": true,
+                  "course": 175,
+                  "longitude": -55.8084602355957,
+                  "latitude": -31.14954948425293
+              },
+              "parameters": [
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "rpm",
+                      "value": 1058
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "distance",
+                      "value": 933651
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "fuel",
+                      "value": 100
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "total_fuel",
+                      "value": 338069.1875
+                  },
+                  {
+                      "alarm_status": "Coming soon....",
+                      "variable_key": "ralenti_hours",
+                      "value": 2727
+                  }
+              ],
+              "vehicle_state": 4,
+              "speed": 4,
+              "timestamp": "2018-11-05T18:03:29Z"
+          }
+      ],
+      "vehicle_id": 262
+}

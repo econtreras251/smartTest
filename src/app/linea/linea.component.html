@@ -1,0 +1,39 @@
+<div class="row mt-5" >
+  <div class="col-md-12" style="margin-bottom: 10px">
+    <h1>Vehiculo número : <span>{{vehiculo}}</span></h1>
+    <hr>
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">Timestamp</th>
+          <th scope="col">RPM</th>
+          <th scope="col">Distancie</th>
+          <th scope="col">Fuel</th>
+          <th scope="col">Total fuel</th>
+          <th scope="col">Relanti hours</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let label of dataViewTimestamp; let j=index" class="animated fadeIn fast" >
+          <th scope="row">{{label}}</th>
+          <td *ngFor="let d of dataViewSmartdata">{{d && d[j]}}</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="card-block">
+      <button (click)="cambiarDesde(-20)" class="btn btn-primary mr-3">
+        Anteriores
+      </button>
+      <button (click)="cambiarDesde(20)" class="btn btn-primary ml-3">
+        Siguientes
+      </button>
+    </div>
+
+    <!-- <div class="card-block">
+      <button (click)="cambiarDesde(20)" class="btn btn-secondary">
+        Siguientes
+      </button>
+    </div> -->
+  </div>
+</div>
